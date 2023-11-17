@@ -23,7 +23,7 @@
 <div style="box-sizing: border-box; width: 48%; padding: 20px; border: 2px solid #2ecc71; background-color: #d4edda; color: #2ecc71;">
   <img src="https://img.shields.io/badge/Indivisul_Connect-3k-brightgreen" alt="Indivisul Connect Badge">
 
-  <h3 style="border-bottom: 2px solid #2ecc71; padding-bottom: 10px;">Profile View: 4,457</h3>
+ 
   <p>👯 I’m open to collaboration on meaningful projects and business opportunities</p>
   <p>🤔 I’m seeking assistance and mentorship in various aspects of my journey</p>
   <!-- Add more information as needed -->
@@ -65,82 +65,7 @@
 
 
 
-## Skills
 
-<!-- Create a grid of your skills with Shields.io badges -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <!-- React -->
-  <a href="https://reactjs.org/" style="text-decoration: none; color: #61DAFB;">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-    <p style="text-align: center;">React</p>
-  </a>
-
-  <!-- Redux -->
-  <a href="https://redux.js.org/" style="text-decoration: none; color: #764ABC;">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
-    <p style="text-align: center;">Redux</p>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none; color: #F7DF1E;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-    <p style="text-align: center;">JavaScript</p>
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none; color: #E34F26;">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-    <p style="text-align: center;">HTML5</p>
-  </a>
-
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none; color: #1572B6;">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-    <p style="text-align: center;">CSS3</p>
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" style="text-decoration: none; color: #38B2AC;">
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
-    <p style="text-align: center;">Tailwind CSS</p>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" style="text-decoration: none; color: #563D7C;">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-    <p style="text-align: center;">Bootstrap</p>
-  </a>
-
-  <!-- DaisyUI -->
-  <a href="#" style="text-decoration: none; color: #ffcc29;">
-    <img src="https://img.shields.io/badge/-DaisyUI-ffcc29?style=for-the-badge" alt="DaisyUI Badge"/>
-    <p style="text-align: center;">DaisyUI</p>
-  </a>
-
-  <!-- Material UI -->
-  <a href="https://material-ui.com/" style="text-decoration: none; color: #0081CB;">
-    <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI Badge"/>
-    <p style="text-align: center;">Material UI</p>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" style="text-decoration: none; color: #4EA94B;">
-    <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-    <p style="text-align: center;">MongoDB</p>
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" style="text-decoration: none; color: #FFCA28;">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-    <p style="text-align: center;">Firebase</p>
-  </a>
-
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" style="text-decoration: none; background-color: #404D59; color: white;">
-    <img src="https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge" alt="Express.js Badge"/>
-    <p style="text-align: center;">Express.js</p>
-  </a>
 
 
 ---
