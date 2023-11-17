@@ -69,6 +69,9 @@
 <!-- GitHub Extra Pins with White Background -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataullahmesbah&layout=compact&theme=radical&bg_color=ffffff&title_color=3498db&text_color=YOUR_TEXT_COLOR)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- GitHub Readme Streak Stats -->
+[![Ataullah Mesbah's GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ataullahmesbah&theme=radical&background=FFFFFF&stroke=551178&dates=000080&fire=551178&border=551178)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 ---
