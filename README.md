@@ -62,14 +62,11 @@
 
 
 
-<!-- GitHub Readme Stats -->
-[![Ataullah Mesbah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataullahmesbah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Readme Stats with White Background -->
+[![Ataullah Mesbah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataullahmesbah&count_private=true&show_icons=true&theme=radical&bg_color=ffffff&title_color=3498db&text_color=YOUR_TEXT_COLOR&icon_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- GitHub Extra Pins -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataullahmesbah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<!-- GitHub Extra Pins with White Background -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataullahmesbah&layout=compact&theme=radical&bg_color=ffffff&title_color=3498db&text_color=YOUR_TEXT_COLOR)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
