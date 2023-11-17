@@ -33,131 +33,33 @@
 
 
 
+## <p align="center">Embracing Challenges, Transforming Ideas into Reality! 👋</p>
 
-## Skills
 
-<!-- Create a grid of your skills -->
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
 
-  <!-- React -->
-  <div>
-    <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-    <p style="text-align: center;">React.js</p>
-  </div>
+<!-- Add your skills with icons -->
+[![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c?style=flat&logo=tailwind-css&logoColor=%23FFFFFF)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-%23ffcc29?style=flat)](https://your-daisyui-link.com/) <!-- Replace with your link -->
+[![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat)](https://expressjs.com/)
+[![JWT](https://img.shields.io/badge/JWT-%231e272e?style=flat)](https://jwt.io/)
+[![Axios](https://img.shields.io/badge/Axios-%23000000?style=flat)](https://axios-http.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=%23FFFFFF)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=%23FFFFFF)](https://github.com/)
+[![Firebase Console](https://img.shields.io/badge/Firebase%20Console-%23FFA000?style=flat)](https://firebase.google.com/docs/firestore/manage-data/console)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=flat&logo=netlify&logoColor=%23FFFFFF)](https://www.netlify.com/)
+[![Flex](https://img.shields.io/badge/Flex-%23000000?style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
 
-  <!-- Redux -->
-  <div>
-    <img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-    <p style="text-align: center;">Redux</p>
-  </div>
-
-  <!-- JavaScript -->
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <p style="text-align: center;">JavaScript</p>
-  </div>
-
-  <!-- HTML5 -->
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=%23FFFFFF" alt="HTML5" />
-    <p style="text-align: center;">HTML5</p>
-  </div>
-
-  <!-- CSS3 -->
-  <div>
-    <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=%23FFFFFF" alt="CSS3" />
-    <p style="text-align: center;">CSS3</p>
-  </div>
-
-  <!-- Tailwind CSS -->
-  <div>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%231a202c?style=flat&logo=tailwind-css&logoColor=%23FFFFFF" alt="Tailwind CSS" />
-    <p style="text-align: center;">Tailwind CSS</p>
-  </div>
-
-  <!-- Bootstrap -->
-  <div>
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <p style="text-align: center;">Bootstrap</p>
-  </div>
-
-  <!-- DaisyUI -->
-  <div style="background-color: #ffcc29;">
-    <p style="text-align: center;">DaisyUI</p>
-  </div>
-
-  <!-- Material UI -->
-  <div>
-    <img src="https://img.shields.io/badge/Material%20UI-%230081CB?style=flat&logo=material-ui&logoColor=white" alt="Material UI" />
-    <p style="text-align: center;">Material UI</p>
-  </div>
-
-  <!-- MongoDB -->
-  <div>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <p style="text-align: center;">MongoDB</p>
-  </div>
-
-  <!-- Firebase -->
-  <div>
-    <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-    <p style="text-align: center;">Firebase</p>
-  </div>
-
-  <!-- Express.js -->
-  <div style="background-color: #404d59;">
-    <p style="text-align: center; color: white;">Express.js</p>
-  </div>
-
-  <!-- JWT -->
-  <div style="background-color: #1e272e;">
-    <p style="text-align: center; color: white;">JWT</p>
-  </div>
-
-  <!-- Axios -->
-  <div style="background-color: #000;">
-    <p style="text-align: center; color: white;">Axios</p>
-  </div>
-
-  <!-- Visual Studio Code -->
-  <div>
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=%23FFFFFF" alt="VS Code" />
-    <p style="text-align: center;">Visual Studio Code</p>
-  </div>
-
-  <!-- GitHub -->
-  <div>
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=%23FFFFFF" alt="GitHub" />
-    <p style="text-align: center;">GitHub</p>
-  </div>
-
-  <!-- Firebase Console -->
-  <div style="background-color: #FFA000;">
-    <p style="text-align: center;">Firebase Console</p>
-  </div>
-
-  <!-- Figma -->
-  <div>
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-    <p style="text-align: center;">Figma</p>
-  </div>
-
-  <!-- Vercel -->
-  <div style="background-color: #000;">
-    <p style="text-align: center; color: white;">Vercel</p>
-  </div>
-
-  <!-- Netlify -->
-  <div style="background-color: #000;">
-    <p style="text-align: center; color: white;">Netlify</p>
-  </div>
-
-  <!-- Flex -->
-  <div>
-
-  </div>
-
-</div>
 
 
 
@@ -241,6 +143,9 @@
   </a>
 
 
+---
+
+## Connect with Me
 
   <!-- Add your social links with icons -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23FFFFFF)](https://www.linkedin.com/in/ataullah-mesbah)
