@@ -9,26 +9,27 @@
 </p>
 
 
-<!-- Box 1 -->
+
+  <!-- Box 1 -->
 <div style="box-sizing: border-box; width: 48%; padding: 20px; border: 2px solid #3498db; background-color: #ecf0f1; color: #3498db;">
   <img src="https://img.shields.io/badge/Profile_Views-5478-ff69b4" alt="Profile Views Badge">
-
-  <p>🔭 I’m currently working remotely</p>
-  <p>🌱 I’m currently enhancing my skills in Next.js</p>
-  <p>💬 Ask me about React, Solid.js, JavaScript</p>
-  <p>📫 How to reach me: mesbahataullah4@gmail.com</p>
+  
+  <p>🔭 I’m currently working at <a href="https://likhoeditor.netlify.app/" style="color: blue;">home</a></p>
+  <p>🌱 I’m currently enhancing my skills in <strong style="color: #3498db;">Next.js</strong></p>
+  <p>💬 Ask me about <strong style="color: #3498db;">React, Solid.js, JavaScript, Next.js</strong></p>
+  <p>📫 How to reach me <a href="mailto:mesbahataullah4@gmail.com" style="color: blue;">mesbahataullah4@gmail.com</a></p>
 </div>
 
 <!-- Box 2 -->
 <div style="box-sizing: border-box; width: 48%; padding: 20px; border: 2px solid #2ecc71; background-color: #d4edda; color: #2ecc71;">
-  <img src="https://img.shields.io/badge/Indivisul_Connect-3k-brightgreen" alt="Indivisul Connect Badge">
-
- 
+  <img src="https://img.shields.io/badge/Indivisul_Connect-3k-brightgreen" alt="Individual Connect Badge">
+  
   <p>👯 I’m open to collaboration on meaningful projects and business opportunities</p>
   <p>🤔 I’m seeking assistance and mentorship in various aspects of my journey</p>
   <!-- Add more information as needed -->
   <p>⚡ Fun fact: I love to explore new technologies and share my knowledge!</p>
 </div>
+
 
 
 
